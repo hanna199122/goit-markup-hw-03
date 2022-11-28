@@ -444,23 +444,23 @@ margin: 20px 24px;
 .resume-list {
 display: flex;
 flex-wrap: wrap;
-align-items: center;
 }
 
 .resume-list li {
 margin-right: 30px;
 margin-bottom: 30px;
-border: 1px solid #EEEEEE;
+border: 0px solid #EEEEEE;
+}
+
+.resume-list li:nth-child(3n) {
+margin-right: 0;
 }
 
 .name {
 margin-bottom: 4px;
 }
 
-.resume-list li img:nth-child(3n+3)  {
-margin-right: auto;
 
-}
 
 
 /* ----------- footer ---------- */
