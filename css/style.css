@@ -438,6 +438,10 @@ padding: 100px 0 50px;
 margin-right: 8px;
 }
 
+.conteiner-description-2  {
+margin: 20px 24px;
+}
+
 .resume-list {
 display: flex;
 flex-wrap: wrap;
@@ -446,7 +450,12 @@ align-items: center;
 
 .resume-list li {
 margin-right: 30px;
-margin-bottom: 140px;
+margin-bottom: 94px;
+border: 1px solid #EEEEEE;
+}
+
+.name {
+margin-bottom: 4px;
 }
 
 .resume-list li img:nth-child(3n+3)  {
