@@ -423,7 +423,6 @@ margin: 0px;
 
 .portfolio-button-1  {
 padding: 6px 25px;
-display: flex;
 }
 
 
@@ -450,7 +449,7 @@ align-items: center;
 
 .resume-list li {
 margin-right: 30px;
-margin-bottom: 94px;
+margin-bottom: 30px;
 border: 1px solid #EEEEEE;
 }
 
