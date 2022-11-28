@@ -256,7 +256,7 @@ line-height: 1.36;
 letter-spacing: 0.06em;
 text-transform: uppercase;
 color: var(--primary-header-color);
-margin-bottom: 40px;
+padding-bottom: 40px;
 }
 
 
@@ -429,8 +429,8 @@ display: flex;
 
 .buttons {
 display: flex;
-align-items: center;
-padding: 100px 0 50px;
+padding-bottom:50px;
+margin: 0 auto;
 }
 
 
