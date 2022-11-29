@@ -10,6 +10,7 @@
 --background-second:#F5F4FA;
 --hover-color:#188CE8;
 --border-color:#EEEEEE;
+--item-set-gap:30px;
 
 
 --main-font:  "Roboto", Sans-serif;
@@ -409,6 +410,7 @@ padding: 94px 0px;
 .portfolio-list-2 {
 display: flex;
 align-items: center;
+margin-bottom: 50px;
 }
 
 
@@ -441,7 +443,6 @@ padding: 6px 25px;
 
 .buttons {
 display: flex;
-margin-bottom:50px;
 margin-right: auto;
 margin-left: auto;
 }
